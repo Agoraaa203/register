@@ -5,6 +5,10 @@ title: "Support"
 labels: support
 ---
 
-### Your subdomain
+### Your subdomain (for example, `name.is-a.dev`)
 
-### The issue
+### What are you trying to do?
+
+### What happens instead? Include any error message.
+
+### What have you tried so far?

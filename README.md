@@ -8,8 +8,8 @@
 
 <p align="center">
    <img alt="Domains" src="https://img.shields.io/github/directory-file-count/is-a-dev/register/domains?color=5c46eb&label=domains&style=for-the-badge">
-   <img alt="Open Pull Requests" src="https://img.shields.io/github/issues-raw/is-a-dev/register?color=5c46eb&label=issues&style=for-the-badge">
-   <img alt="Open Issues" src="https://img.shields.io/github/issues-pr-raw/is-a-dev/register?color=5c46eb&label=pull%20requests&style=for-the-badge">
+   <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/is-a-dev/register?color=5c46eb&label=issues&style=for-the-badge">
+   <img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr-raw/is-a-dev/register?color=5c46eb&label=pull%20requests&style=for-the-badge">
    <br>
 </p>
 
@@ -31,9 +31,8 @@ Not all announcements are posted on GitHub[^1], however they will always be post
 
 - [Fork](https://github.com/is-a-dev/register/fork) the repository.
 - Follow the instructions on our [documentation](https://docs.is-a.dev).
-- Once you open your pull request (PR), it will be reviewed. *Keep an eye on it in case changes are needed!*
-   - If changes have been requested, please make the specified changes otherwise **you will be rejected**.
-- Once your PR is merged, your DNS records should be published with-in a few minutes.
+- Open a pull request and keep an eye on it for review feedback. If changes are requested, update the same branch and pull request; you do not need to open another one.
+- Once your PR is merged, your DNS records should be published within a few minutes.
 - Enjoy your new `.is-a.dev` subdomain! Please consider leaving a star ⭐️ to help support us!
 
 ## Spam Pull Requests
